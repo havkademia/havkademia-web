@@ -1,0 +1,9 @@
+content:
+  - name: web
+    label: Web Havkadémie
+    type: file
+    path: index.html
+    fields:
+      - name: body
+        label: Obsah stránky
+        type: code
