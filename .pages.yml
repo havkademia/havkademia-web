@@ -1,9 +1,9 @@
 content:
-  - name: web
-    label: Web Havkadémie
+  - name: obsah
+    label: Obsah Havkadémie
     type: file
-    path: index.html
+    path: content.json
     fields:
-      - name: body
-        label: Obsah stránky
-        type: code
+      - name: title
+        label: Názov stránky
+        type: string
