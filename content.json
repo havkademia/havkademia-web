@@ -7,31 +7,23 @@
   "services": [
     {
       "title": "Vzájomná komunikácia",
-      "description": "Spoločná práca na lepšom porozumení a spolupráci.",
-      "price": ""
+      "description": "Spoločná práca na lepšom porozumení a spolupráci."
     },
     {
       "title": "Praktické zručnosti",
-      "description": "Tréning podľa potrieb psa a jeho majiteľa.",
-      "price": ""
+      "description": "Tréning podľa potrieb psa a jeho majiteľa."
     },
     {
       "title": "Spoločné pokroky",
-      "description": "Budovanie vzťahu a radosti zo spoločného učenia.",
-      "price": ""
+      "description": "Budovanie vzťahu a radosti zo spoločného učenia."
     }
   ],
   "trainer_name": "Kristína Belková",
   "trainer_bio": "Moja cesta sa začala s mojím prvým štvornohým parťákom Hugom. Spolu sme prešli úspechmi aj chybami, ktoré ma naučili, že výcvik nie je len o poveloch, ale najmä o porozumení medzi človekom a psom. Hugo ma naučil trpezlivosti a tomu, že každý pes je jedinečný. Aj vďaka nemu vznikla 1. augusta 2025 Havkadémia.",
   "hugo_bio": "Hugo je môj prvý pes, parťák a jeden z hlavných dôvodov, prečo dnes existuje Havkadémia. Stále je po mojom boku a je súčasťou Havkadémie aj dnes.",
-  "logo": "images/logo.jpg",
-  "trainer_photo": "images/kristina-hugo.jpg",
-  "hugo_photo": "images/hugo.jpg",
+  "logo": "/images/logo.jpg",
+  "trainer_photo": "/images/DSC_5340.jpg",
+  "hugo_photo": "/images/DSC_5350.jpg",
   "instagram": "https://www.instagram.com/havkademia/",
-  "facebook": "https://www.facebook.com/share/19Sk3dFvSu/",
-  "phone": "",
-  "email": "",
-  "announcement": "",
-  "dates": [],
-  "gallery": []
+  "facebook": "https://www.facebook.com/share/19Sk3dFvSu/"
 }
