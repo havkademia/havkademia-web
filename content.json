@@ -1,0 +1,37 @@
+{
+  "headline": "Spolu k lepšiemu porozumeniu.",
+  "intro": "Vitajte v Havkadémii – mieste, kde sa psy a ich ľudia učia spolupracovať a budovať vzájomnú dôveru.",
+  "location": "Halič, okres Lučenec",
+  "services_title": "Výcvik psov v Haliči",
+  "services_intro": "Pomáhame budovať lepšie porozumenie medzi psom a jeho človekom. Konkrétne druhy tréningov a podmienky čoskoro doplníme.",
+  "services": [
+    {
+      "title": "Vzájomná komunikácia",
+      "description": "Spoločná práca na lepšom porozumení a spolupráci.",
+      "price": ""
+    },
+    {
+      "title": "Praktické zručnosti",
+      "description": "Tréning podľa potrieb psa a jeho majiteľa.",
+      "price": ""
+    },
+    {
+      "title": "Spoločné pokroky",
+      "description": "Budovanie vzťahu a radosti zo spoločného učenia.",
+      "price": ""
+    }
+  ],
+  "trainer_name": "Kristína Belková",
+  "trainer_bio": "Moja cesta sa začala s mojím prvým štvornohým parťákom Hugom. Spolu sme prešli úspechmi aj chybami, ktoré ma naučili, že výcvik nie je len o poveloch, ale najmä o porozumení medzi človekom a psom. Hugo ma naučil trpezlivosti a tomu, že každý pes je jedinečný. Aj vďaka nemu vznikla 1. augusta 2025 Havkadémia.",
+  "hugo_bio": "Hugo je môj prvý pes, parťák a jeden z hlavných dôvodov, prečo dnes existuje Havkadémia. Stále je po mojom boku a je súčasťou Havkadémie aj dnes.",
+  "logo": "images/logo.jpg",
+  "trainer_photo": "images/kristina-hugo.jpg",
+  "hugo_photo": "images/hugo.jpg",
+  "instagram": "https://www.instagram.com/havkademia/",
+  "facebook": "https://www.facebook.com/share/19Sk3dFvSu/",
+  "phone": "",
+  "email": "",
+  "announcement": "",
+  "dates": [],
+  "gallery": []
+}
