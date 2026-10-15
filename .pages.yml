@@ -4,6 +4,83 @@ content:
     type: file
     path: content.json
     fields:
-      - name: title
-        label: Názov stránky
+      - name: headline
+        label: Hlavný nadpis
         type: string
+      - name: intro
+        label: Úvodný text
+        type: text
+      - name: location
+        label: Miesto
+        type: string
+      - name: services_title
+        label: Nadpis služieb
+        type: string
+      - name: services_intro
+        label: Úvod k službám
+        type: text
+      - name: services
+        label: Kurzy a služby
+        type: object
+        list: true
+        fields:
+          - name: title
+            label: Názov
+            type: string
+          - name: description
+            label: Popis
+            type: text
+          - name: price
+            label: Cena
+            type: string
+      - name: trainer_name
+        label: Meno trénerky
+        type: string
+      - name: trainer_bio
+        label: O trénerke
+        type: text
+      - name: hugo_bio
+        label: O Hugovi
+        type: text
+      - name: logo
+        label: Logo
+        type: image
+      - name: trainer_photo
+        label: Fotografia trénerky
+        type: image
+      - name: hugo_photo
+        label: Fotografia Huga
+        type: image
+      - name: instagram
+        label: Instagram
+        type: string
+      - name: facebook
+        label: Facebook
+        type: string
+      - name: phone
+        label: Telefón
+        type: string
+      - name: email
+        label: Email
+        type: string
+      - name: announcement
+        label: Oznam
+        type: text
+      - name: dates
+        label: Termíny
+        type: object
+        list: true
+        fields:
+          - name: title
+            label: Názov termínu
+            type: string
+          - name: date
+            label: Dátum
+            type: string
+          - name: description
+            label: Podrobnosti
+            type: text
+      - name: gallery
+        label: Galéria
+        type: image
+        list: true
